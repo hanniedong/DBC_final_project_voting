@@ -1,4 +1,4 @@
-# DBC Final Project Voting System
+# Pitchify: A DBC Final Project Voting System
 
 This is an app that was started during my time at Dev Bootcamp in a group project (shoutout to peanutenthusiast, nestro14, garimaj2108, and rnose512 for being great contributors). Upon graduating, I have decided to work on this project a little more and work out the bugs that we did not have the time to fix. 
 
