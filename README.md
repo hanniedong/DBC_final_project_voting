@@ -10,6 +10,6 @@ This is an app that was started during my time at Dev Bootcamp in a group projec
 <strong> Users will need to sign into their account in order to pitch an idea and vote for a pitch.</strong>
 
 [![image](https://github.com/hanniedong/Pitchify/blob/development-branch/app/assets/images/Screen%20Shot%202017-09-27%20at%205.36.20%20PM.png)](#features)
-<strong>here is also admin capability, where admins can choose the final projects as well as set up teams for each project. </strong>
+<strong>There is also admin capability, where admins can choose the final projects as well as set up teams for each project. </strong>
 
 [![image](https://github.com/hanniedong/Pitchify/blob/development-branch/app/assets/images/Screen%20Shot%202017-09-27%20at%205.36.58%20PM.png)](#features)
